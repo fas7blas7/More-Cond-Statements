@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\bin\Debug\net8.0\1-Marketplace.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\bin\Debug\net8.0\1-Marketplace.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\bin\Debug\net8.0\1-Marketplace.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\bin\Debug\net8.0\1-Marketplace.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\bin\Debug\net8.0\1-Marketplace.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\refint\1-Marketplace.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\1-Marketplace.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\1-Marketplace\obj\Debug\net8.0\ref\1-Marketplace.dll

@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEDA15A-16F7-4CCF-85FA-CB5E5365A768}|9-Cinema\\9-Cinema.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\9-cinema\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEDA15A-16F7-4CCF-85FA-CB5E5365A768}|9-Cinema\\9-Cinema.csproj|solutionrelative:9-cinema\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91360CF-A135-4857-9479-FC34F76E8D1F}|8-SortedNumbers\\8-SortedNumbers.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\8-sortednumbers\\sortednumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91360CF-A135-4857-9479-FC34F76E8D1F}|8-SortedNumbers\\8-SortedNumbers.csproj|solutionrelative:8-sortednumbers\\sortednumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1A8489-9736-4BE1-9309-B30DB70045D8}|7-VowelOrConsunant\\7-VowelOrConsonant.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\7-vowelorconsunant\\vowelorconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1A8489-9736-4BE1-9309-B30DB70045D8}|7-VowelOrConsunant\\7-VowelOrConsonant.csproj|solutionrelative:7-vowelorconsunant\\vowelorconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88F95F6-2482-4DE6-AD0B-740E9758A589}|6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\6-dayofweekasnumber\\dayofweekasnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88F95F6-2482-4DE6-AD0B-740E9758A589}|6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj|solutionrelative:6-dayofweekasnumber\\dayofweekasnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88F95F6-2482-4DE6-AD0B-740E9758A589}|6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\6-dayofweekasnumber\\6-dayofweekasnumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F88F95F6-2482-4DE6-AD0B-740E9758A589}|6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj|solutionrelative:6-dayofweekasnumber\\6-dayofweekasnumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A927EC-C428-4B3D-903F-5621299A75DD}|5-InvalidNumber\\5-InvalidNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\5-invalidnumber\\invalidnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A927EC-C428-4B3D-903F-5621299A75DD}|5-InvalidNumber\\5-InvalidNumber.csproj|solutionrelative:5-invalidnumber\\invalidnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E210AF-053F-407D-9CD9-F7465AC7D8B9}|4-FoodOrDrink\\4-FoodOrDrink.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\4-foodordrink\\foodordrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E210AF-053F-407D-9CD9-F7465AC7D8B9}|4-FoodOrDrink\\4-FoodOrDrink.csproj|solutionrelative:4-foodordrink\\foodordrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E5ED2-F83E-4C4A-AB56-EF0E461B2E9D}|3-BonusScore\\3-BonusScore.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\3-bonusscore\\bonusscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E5ED2-F83E-4C4A-AB56-EF0E461B2E9D}|3-BonusScore\\3-BonusScore.csproj|solutionrelative:3-bonusscore\\bonusscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52BC192-DAFC-47B4-84ED-2A2092B8355F}|2-LargestNumber\\2-LargestNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\2-largestnumber\\largestnumberoutofthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52BC192-DAFC-47B4-84ED-2A2092B8355F}|2-LargestNumber\\2-LargestNumber.csproj|solutionrelative:2-largestnumber\\largestnumberoutofthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B41117-E3E5-43A7-9E65-892278C2889B}|1-Marketplace\\1-Marketplace.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\1-marketplace\\1-marketplace.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{22B41117-E3E5-43A7-9E65-892278C2889B}|1-Marketplace\\1-Marketplace.csproj|solutionrelative:1-marketplace\\1-marketplace.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B41117-E3E5-43A7-9E65-892278C2889B}|1-Marketplace\\1-Marketplace.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\6-simple-conditional-statements\\cmplx-conditional-statements\\1-marketplace\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B41117-E3E5-43A7-9E65-892278C2889B}|1-Marketplace\\1-Marketplace.csproj|solutionrelative:1-marketplace\\marketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\9-Cinema\\Cinema.cs",
+              "RelativeDocumentMoniker": "9-Cinema\\Cinema.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\9-Cinema\\Cinema.cs",
+              "RelativeToolTip": "9-Cinema\\Cinema.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:44:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\8-SortedNumbers\\SortedNumbers.cs",
+              "RelativeDocumentMoniker": "8-SortedNumbers\\SortedNumbers.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\8-SortedNumbers\\SortedNumbers.cs",
+              "RelativeToolTip": "8-SortedNumbers\\SortedNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:39:46.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VowelOrConsonant.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\7-VowelOrConsunant\\VowelOrConsonant.cs",
+              "RelativeDocumentMoniker": "7-VowelOrConsunant\\VowelOrConsonant.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\7-VowelOrConsunant\\VowelOrConsonant.cs",
+              "RelativeToolTip": "7-VowelOrConsunant\\VowelOrConsonant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:32:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6-DayOfWeekAsNumber",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj",
+              "RelativeDocumentMoniker": "6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj",
+              "RelativeToolTip": "6-DayOfWeekAsNumber\\6-DayOfWeekAsNumber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T18:27:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DayOfWeekAsNumber.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\6-DayOfWeekAsNumber\\DayOfWeekAsNumber.cs",
+              "RelativeDocumentMoniker": "6-DayOfWeekAsNumber\\DayOfWeekAsNumber.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\6-DayOfWeekAsNumber\\DayOfWeekAsNumber.cs",
+              "RelativeToolTip": "6-DayOfWeekAsNumber\\DayOfWeekAsNumber.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:27:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidNumber.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\5-InvalidNumber\\InvalidNumber.cs",
+              "RelativeDocumentMoniker": "5-InvalidNumber\\InvalidNumber.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\5-InvalidNumber\\InvalidNumber.cs",
+              "RelativeToolTip": "5-InvalidNumber\\InvalidNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:19:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodOrDrink.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\4-FoodOrDrink\\FoodOrDrink.cs",
+              "RelativeDocumentMoniker": "4-FoodOrDrink\\FoodOrDrink.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\4-FoodOrDrink\\FoodOrDrink.cs",
+              "RelativeToolTip": "4-FoodOrDrink\\FoodOrDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:15:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BonusScore.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\3-BonusScore\\BonusScore.cs",
+              "RelativeDocumentMoniker": "3-BonusScore\\BonusScore.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\3-BonusScore\\BonusScore.cs",
+              "RelativeToolTip": "3-BonusScore\\BonusScore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:09:05.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1-Marketplace",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\1-Marketplace\\1-Marketplace.csproj",
+              "RelativeDocumentMoniker": "1-Marketplace\\1-Marketplace.csproj",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\1-Marketplace\\1-Marketplace.csproj",
+              "RelativeToolTip": "1-Marketplace\\1-Marketplace.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T18:06:38.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LargestNumberOutOfThree.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\2-LargestNumber\\LargestNumberOutOfThree.cs",
+              "RelativeDocumentMoniker": "2-LargestNumber\\LargestNumberOutOfThree.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\2-LargestNumber\\LargestNumberOutOfThree.cs",
+              "RelativeToolTip": "2-LargestNumber\\LargestNumberOutOfThree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:03:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Marketplace.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\1-Marketplace\\Marketplace.cs",
+              "RelativeDocumentMoniker": "1-Marketplace\\Marketplace.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\6-SIMPLE-CONDITIONAL-STATEMENTS\\CMPLX-CONDITIONAL-STATEMENTS\\1-Marketplace\\Marketplace.cs",
+              "RelativeToolTip": "1-Marketplace\\Marketplace.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:42:12.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

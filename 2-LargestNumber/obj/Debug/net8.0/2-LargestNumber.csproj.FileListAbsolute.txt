@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\bin\Debug\net8.0\2-LargestNumber.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\bin\Debug\net8.0\2-LargestNumber.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\bin\Debug\net8.0\2-LargestNumber.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\bin\Debug\net8.0\2-LargestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\bin\Debug\net8.0\2-LargestNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\refint\2-LargestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\2-LargestNumber.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\2-LargestNumber\obj\Debug\net8.0\ref\2-LargestNumber.dll

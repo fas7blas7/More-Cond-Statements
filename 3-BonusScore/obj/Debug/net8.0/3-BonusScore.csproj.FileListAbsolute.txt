@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\bin\Debug\net8.0\3-BonusScore.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\bin\Debug\net8.0\3-BonusScore.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\bin\Debug\net8.0\3-BonusScore.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\bin\Debug\net8.0\3-BonusScore.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\bin\Debug\net8.0\3-BonusScore.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\refint\3-BonusScore.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\3-BonusScore.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\3-BonusScore\obj\Debug\net8.0\ref\3-BonusScore.dll

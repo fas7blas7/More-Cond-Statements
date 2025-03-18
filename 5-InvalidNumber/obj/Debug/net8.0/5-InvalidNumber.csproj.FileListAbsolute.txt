@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\bin\Debug\net8.0\5-InvalidNumber.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\bin\Debug\net8.0\5-InvalidNumber.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\bin\Debug\net8.0\5-InvalidNumber.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\bin\Debug\net8.0\5-InvalidNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\bin\Debug\net8.0\5-InvalidNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\refint\5-InvalidNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\5-InvalidNumber.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\5-InvalidNumber\obj\Debug\net8.0\ref\5-InvalidNumber.dll

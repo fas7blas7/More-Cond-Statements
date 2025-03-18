@@ -130,3 +130,118 @@ namespace _3_BonusScore
     }
 }
 ```
+---
+
+### 4️⃣ Food or Drink 🍔🥤
+**Namespace:** `_4_FoodOrDrink`
+
+**Description:**
+A program that classifies an input as "food" or "drink."
+
+```csharp
+namespace _4_FoodOrDrink
+{
+    internal class FoodOrDrink
+    {
+        static void Main(string[] args)
+        {
+            string product = Console.ReadLine();
+
+            if (product is "curry" or "noodles" or "sushi" or "spaghetti" or "bread")
+            {
+                Console.WriteLine("food");
+            }
+            else if (product is "coffee" or "tea" or "water" or "juice")
+            {
+                Console.WriteLine("drink");
+            }
+            else
+            {
+                Console.WriteLine("unknown");
+            }
+        }
+    }
+}
+}
+```
+---
+
+### 5️⃣ Invalid Number 🚫
+**Namespace:** `_5_InvalidNumber`
+
+**Description:**
+A program that checks if a number is valid based on specific conditions.
+
+```csharp
+namespace _5_InvalidNumber
+{
+    internal class InvalidNumber
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+
+            if (number == 0 || number >= 100 && number <= 200)
+            {
+            }
+            else
+            {
+                Console.WriteLine("invalid");
+            }
+        }
+    }
+}
+```
+---
+
+### 6️⃣ Day of the Week 📅
+**Namespace:** `_6_DayOfWeekAsNumber`
+
+**Description:**
+A program that prints the corresponding day name for a given number.
+
+```csharp
+namespace _6_DayOfWeekAsNumber
+{
+    internal class DayOfWeekAsNumber
+    {
+        static void Main(string[] args)
+        {
+            int dayOfWeek = int.Parse(Console.ReadLine());
+
+            if (dayOfWeek == 1)
+            {
+                Console.WriteLine("Monday");
+            }
+            if (dayOfWeek == 2)
+            {
+                Console.WriteLine("Tuesday");
+            }
+            if (dayOfWeek == 3)
+            {
+                Console.WriteLine("Wednesday");
+            }
+            if (dayOfWeek == 4)
+            {
+                Console.WriteLine("Thursday");
+            }
+            if (dayOfWeek == 5)
+            {
+                Console.WriteLine("Friday");
+            }
+            if (dayOfWeek == 6)
+            {
+                Console.WriteLine("Saturday");
+            }
+            if (dayOfWeek == 7)
+            {
+                Console.WriteLine("Sunday");
+            }
+            else if (dayOfWeek < 1 || dayOfWeek > 7)
+            {
+                Console.WriteLine("Error");
+            }
+        }
+    }
+}
+```

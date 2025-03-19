@@ -244,4 +244,118 @@ namespace _6_DayOfWeekAsNumber
         }
     }
 }
+
+# GitHub Repository
+
+Welcome to my GitHub repository! Here you will find various coding tasks with their respective implementations.
+
+## 🚀 Coding Tasks
+
+
+---
+
+### 7️⃣ Vowel or Consonant 🔡
+**Namespace:** `_7_VowelOrConsonant`
+
+**Description:**
+A program that checks if a letter is a vowel or consonant.
+
+```csharp
+namespace _7_VowelOrConsonant
+{
+    internal class VowelOrConsonant
+    {
+        static void Main(string[] args)
+        {
+            char letter = char.Parse(Console.ReadLine());
+
+            if(letter is 'A' or 'a' or 'E' or 'e' or 'I' or 'i' or 'O' or 'o' or 'U' or 'u')
+            {
+                Console.WriteLine("Vowel");
+            }
+            else
+            {
+                Console.WriteLine("Consonant");
+            }
+        }
+    }
+}
 ```
+---
+
+### 8️⃣ Sorted Numbers 📊
+**Namespace:** `_8_SortedNumbers`
+
+**Description:**
+A program that determines whether three numbers are sorted in ascending, descending order, or not sorted.
+
+```csharp
+namespace _8_SortedNumbers
+{
+    internal class SortedNumbers
+    {
+        static void Main(string[] args)
+        {
+            int firstNumber = int.Parse(Console.ReadLine());
+            int secondNumber = int.Parse(Console.ReadLine());
+            int thirdNumber = int.Parse(Console.ReadLine());
+
+            if (firstNumber > secondNumber && secondNumber > thirdNumber)
+            {
+                Console.WriteLine("Descending");
+            }
+            else if (firstNumber < secondNumber && secondNumber < thirdNumber)
+            {
+                Console.WriteLine("Ascending");
+            }
+            else
+            {
+                Console.WriteLine("Not sorted");
+            }
+        }
+    }
+}
+```
+---
+
+### 9️⃣ Cinema 🎥
+**Namespace:** `_9_Cinema`
+
+**Description:**
+A program that calculates the total revenue for different movie types based on ticket prices and seat count.
+
+```csharp
+namespace _9_Cinema
+{
+    internal class Cinema
+    {
+        static void Main(string[] args)
+        {
+            string typeOfMovie = Console.ReadLine();
+            int countOfRows = int.Parse(Console.ReadLine());
+            int countOfSeats = int.Parse(Console.ReadLine());
+            
+            double priceOfTicket = 0;
+            double totalCountOfSeats = countOfRows * countOfSeats;
+
+            if (typeOfMovie == "Premiere")
+            {
+                priceOfTicket = 12.00;
+            }
+            else if (typeOfMovie == "Normal")
+            {
+                priceOfTicket = 7.50;
+            }
+            else if (typeOfMovie == "Discount")
+            {
+                priceOfTicket = 5.00;
+            }
+            
+            Console.WriteLine($"{totalCountOfSeats * priceOfTicket:f2}");
+        }
+    }
+}
+```
+---
+
+

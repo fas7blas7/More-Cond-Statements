@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\bin\Debug\net8.0\7-VowelOrConsonant.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\bin\Debug\net8.0\7-VowelOrConsonant.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\bin\Debug\net8.0\7-VowelOrConsonant.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\bin\Debug\net8.0\7-VowelOrConsonant.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\bin\Debug\net8.0\7-VowelOrConsonant.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\refint\7-VowelOrConsonant.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\7-VowelOrConsonant.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CMPLX-CONDITIONAL-STATEMENTS\7-VowelOrConsunant\obj\Debug\net8.0\ref\7-VowelOrConsonant.dll
